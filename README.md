@@ -41,3 +41,12 @@ Feel free to contact us or directly do a PR on this repository!
 | License | AGPL 3.0 |
 | Maintainer | UCLouvain - INGI
 | Authors | Anthony Gégo
+
+| Name | INGInious C++ demonstration tasks |
+| :---- | ------------------------------------- |
+| Link | https://github.com/mmoelle1/INGInious-cpp-demo-tasks |
+| Language | English |
+| Description | A demo for C++ tasks, with error highlighting |
+| License | AGPL 3.0 |
+| Maintainer | Matthias Möller |
+| Authors | Matthias Möller |
