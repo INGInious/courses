@@ -33,6 +33,15 @@ Feel free to contact us or directly do a PR on this repository!
 | Maintainer | UCLouvain - INGI
 | Authors | Full list on repo. Course given at UCLouvain by Pr. Olivier Bonaventure and Pr. Charles Pecheur
 
+| Name | Computer Science 2 |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/LEPL1402 |
+| Language | English |
+| Description | Second course in CS for university students. Based on Java. |
+| License | AGPL 3.0 |
+| Maintainer | UCLouvain - INGI
+| Authors | Full list on repo. Course given at UCLouvain by Pr. Pierre Schaus and Pr. Ramin Sadre
+
 | Name | Demo tasks |
 | :---- | ------------------------------------- |
 | Link | https://github.com/UCL-INGI/INGInious-demo-tasks |
