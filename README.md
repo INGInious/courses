@@ -59,3 +59,12 @@ Feel free to contact us or directly do a PR on this repository!
 | License | CC-BY-SA |
 | Maintainer | UCLouvain - INGI |
 | Authors | Yakoub Jacques, Rucquoy Alexandre, Bastin Julien and Piron Henri |
+
+| Name | Data structures and algorithms |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/LSINF1121-Data-Structures-And-Algorithms.git |
+| Language | French |
+| Description | An introduction to data structures and algorithms |
+| License | CC-BY-SA |
+| Maintainer | UCLouvain - INGI |
+| Authors | Xavier Gillard, Julien Bastin and Guillaume Derval |

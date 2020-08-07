@@ -91,5 +91,23 @@
         "description": {
             "en": "LEPL1402 |Build Status|\n=======================\n\nINGInious tasks for `LEPL1402 <https://uclouvain.be/cours-2019-lepl1402.html>`__ at EPL ( UCLouvain )\n\nThis course contains a set of INGInious tasks that could be used as\npractical exercises for the 2nd year of bachelor course \"LEPL1402\".\nTasks will be tested by `JUnit 4 <http://junit.org/junit4/>`__.\n\nDocumentation\n-------------\n\nDon't hesitate to read the INGInious documentation and the wiki to get\nmore familiar with the system and learn how to make your own tasks and\nexercises: `wiki <https://github.com/UCL-INGI/LEPL1402/wiki>`__.\n\nAuthors\n-------\n\n-  `Yakoub Jacques <https://github.com/jy95>`__ (creator of the generic\n   runner in $common)\n-  `Rucquoy Alexandre <https://github.com/rucquoy>`__\n-  `Bastin Julien <https://github.com/bastinjul>`__\n-  Piron Henri\n\nSome screenshots ?\n------------------\n\nPlease visit the `wiki page dedicated for\nthat <https://github.com/UCL-INGI/LEPL1402/wiki/Screenshots>`__\n\n.. |Build Status| image:: https://travis-ci.com/UCL-INGI/LEPL1402.svg?branch=master\n   :target: https://travis-ci.com/UCL-INGI/LEPL1402\n"
         }
+    },
+    {
+        "id": "LSINF1121",
+        "link": "https://github.com/UCL-INGI/LSINF1121-Data-Structures-And-Algorithms.git",
+        "languages": "French",
+        "license": "CC-BY-SA",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Xavier Gillard, Julien Bastin and Guillaume Derval",
+        "default_language": "en",
+        "name": {
+            "en": "Data structures and algorithms"
+        },
+        "short_desc": {
+            "en": "An introduction to data structures and algorithms"
+        },
+        "description": {
+            "en": "Structure\n---------\n\nChaque dossier correspond \u00e0 une task sur INGInious; certains dossiers\nsont des essais de tests, mais n'ont pas \u00e9t\u00e9 publi\u00e9s sur INGInious. Ce\nqui suit ne concerne que les tasks demandant aux \u00e9tudiants des\nimpl\u00e9mentations de programmes ou des tests de programmes:\n\nCes t\u00e2ches demandent \u00e0 l'\u00e9tudiant de fournir une impl\u00e9mentation d'une\ninterface:\n\n-  m1stack\n-  m1interpreter\n-  m3orderedmap\n-  m4bis\n-  m5compressor\n-  m6kruskal\n\nCes t\u00e2ches demandent \u00e0 l'\u00e9tudiant de fournir une batterie de tests qui\nseront appliqu\u00e9s sur des impl\u00e9mentations parfois correctes parfois\nincorrectes:\n\n-  m1stacktests\n-  m1interpretertests\n-  m3tests\n-  m4plagiarism\\_tests\n-  m5\\_compressor\\_tests\n-  m6\\_kruskal\\_tests\n\nCes t\u00e2ches demandent des choses divers et vari\u00e9s (QCM, simple r\u00e9ponse,\ncode, ...):\n\n-  preexam\\_bfs\n-  preexam\\_merge\\_sort\n-  preexam\\_dfs\n-  preexam\\_heap\n-  preexam\\_redblacktree\n-  preexam\\_treeqcm\n\nIl existe d'autres dossiers pour d'autres missions, mais ce ne sont que\ndes \u00e9bauches, et ne sont pas utilis\u00e9s ou donn\u00e9s aux \u00e9tudiants. (Y'as\nrien pour la mission 2, par exemple)\n\ncommon\n~~~~~~\n\nDans le dossier \"common/\" se trouve des scripts communs \u00e0 chaque t\u00e2che.\nLe script \"build\" permet de copier ces scripts dans les diff\u00e9rents\ndossiers des diff\u00e9rentes t\u00e2ches. (Il faut les copier car lorsque\nINGInious cr\u00e9e le container Docker, celui-ci n'a plus acc\u00e8s au\nrepertoire parent, et donc \u00e0 \"common/\")\n\nrun\n~~~\n\nChaque t\u00e2che contient un fichier \"run\" qui correspond aux fichier\nexecut\u00e9 par INGInious lors de la soumission d'une t\u00e2che. La plupart de\nces fichiers \"run\" utilisent les scripts copi\u00e9s de \"common/\".\n\nexamples\n~~~~~~~~\n\nLe dossier \"examples\" contient des exemples de tests ou\nd'impl\u00e9mentations. Ca permet de rapidement v\u00e9rifier si une t\u00e2che\nfonctionne comme il faut pour les cas les plus basiques.\n"
+        }
     }
 ]
