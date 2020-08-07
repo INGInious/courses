@@ -50,3 +50,12 @@ Feel free to contact us or directly do a PR on this repository!
 | License | AGPL 3.0 |
 | Maintainer | Matthias Möller |
 | Authors | Matthias Möller |
+
+| Name | Computer science 2 - JAVA |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/LEPL1402.git |
+| Language | English |
+| Description | A introductuctory course to JAVA for student with background in computer science |
+| License | CC-BY-SA |
+| Maintainer | UCLouvain - INGI |
+| Authors | Yakoub Jacques, Rucquoy Alexandre, Bastin Julien and Piron Henri |

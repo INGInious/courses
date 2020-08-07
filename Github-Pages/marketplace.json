@@ -73,5 +73,23 @@
         "description": {
             "en": "INGInious C++ demonstration tasks\n=================================\n\nThis repository hosts C++ demonstration tasks for the INGInious\nplatform.\n\nPlease note that these require one of the container images ``cpp-gcc5``,\n``cpp-gcc6``, ``cpp-gcc7``, and ``cpp-gcc8`` from PR\nhttps://github.com/UCL-INGI/INGInious-containers/pull/31 to be installed\non the system. All C++11 and C++14 features are supported by GCC 5 and\nbetter. Most C++17 features require GCC 7 or better. Features from the\nC++2a working draft are partily implemented in GCC 8, others require GCC\n9 which is not yet available as container image.\n\nThe default setting in all demo tasks is GCC 8.\n"
         }
+    },
+    {
+        "id": "LEPL1402",
+        "link": "https://github.com/UCL-INGI/LEPL1402.git",
+        "languages": "English",
+        "license": "CC-BY-SA",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Yakoub Jacques, Rucquoy Alexandre, Bastin Julien and Piron Henri",
+        "default_language": "en",
+        "name": {
+            "en": "Computer science 2 - JAVA"
+        },
+        "short_desc": {
+            "en": "A introductuctory course to JAVA for student with background in computer science"
+        },
+        "description": {
+            "en": "LEPL1402 |Build Status|\n=======================\n\nINGInious tasks for `LEPL1402 <https://uclouvain.be/cours-2019-lepl1402.html>`__ at EPL ( UCLouvain )\n\nThis course contains a set of INGInious tasks that could be used as\npractical exercises for the 2nd year of bachelor course \"LEPL1402\".\nTasks will be tested by `JUnit 4 <http://junit.org/junit4/>`__.\n\nDocumentation\n-------------\n\nDon't hesitate to read the INGInious documentation and the wiki to get\nmore familiar with the system and learn how to make your own tasks and\nexercises: `wiki <https://github.com/UCL-INGI/LEPL1402/wiki>`__.\n\nAuthors\n-------\n\n-  `Yakoub Jacques <https://github.com/jy95>`__ (creator of the generic\n   runner in $common)\n-  `Rucquoy Alexandre <https://github.com/rucquoy>`__\n-  `Bastin Julien <https://github.com/bastinjul>`__\n-  Piron Henri\n\nSome screenshots ?\n------------------\n\nPlease visit the `wiki page dedicated for\nthat <https://github.com/UCL-INGI/LEPL1402/wiki/Screenshots>`__\n\n.. |Build Status| image:: https://travis-ci.com/UCL-INGI/LEPL1402.svg?branch=master\n   :target: https://travis-ci.com/UCL-INGI/LEPL1402\n"
+        }
     }
 ]
