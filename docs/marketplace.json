@@ -80,13 +80,13 @@
         "languages": "English",
         "license": "CC-BY-SA",
         "maintainers": "UCLouvain - INGI",
-        "authors": "Yakoub Jacques, Rucquoy Alexandre, Bastin Julien and Piron Henri",
+        "authors": "Full list on repo. Course given at UCLouvain by Pr. Pierre Schaus and Pr. Ramin Sadre",
         "default_language": "en",
         "name": {
-            "en": "Computer science 2 - JAVA"
+            "en": "Computer Science 2"
         },
         "short_desc": {
-            "en": "A introductuctory course to JAVA for student with background in computer science"
+            "en": "Second course in CS for university students. Based on Java."
         },
         "description": {
             "en": "LEPL1402 |Build Status|\n=======================\n\nINGInious tasks for `LEPL1402 <https://uclouvain.be/cours-2019-lepl1402.html>`__ at EPL ( UCLouvain )\n\nThis course contains a set of INGInious tasks that could be used as\npractical exercises for the 2nd year of bachelor course \"LEPL1402\".\nTasks will be tested by `JUnit 4 <http://junit.org/junit4/>`__.\n\nDocumentation\n-------------\n\nDon't hesitate to read the INGInious documentation and the wiki to get\nmore familiar with the system and learn how to make your own tasks and\nexercises: `wiki <https://github.com/UCL-INGI/LEPL1402/wiki>`__.\n\nAuthors\n-------\n\n-  `Yakoub Jacques <https://github.com/jy95>`__ (creator of the generic\n   runner in $common)\n-  `Rucquoy Alexandre <https://github.com/rucquoy>`__\n-  `Bastin Julien <https://github.com/bastinjul>`__\n-  Piron Henri\n\nSome screenshots ?\n------------------\n\nPlease visit the `wiki page dedicated for\nthat <https://github.com/UCL-INGI/LEPL1402/wiki/Screenshots>`__\n\n.. |Build Status| image:: https://travis-ci.com/UCL-INGI/LEPL1402.svg?branch=master\n   :target: https://travis-ci.com/UCL-INGI/LEPL1402\n"
