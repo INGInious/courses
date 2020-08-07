@@ -1,1 +1,77 @@
-[]
+[
+    {
+        "id": "LSINF1252",
+        "link": "https://github.com/UCL-INGI/LSINF1252",
+        "languages": "English / French",
+        "license": "GPL 3.0",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Pr. Olivier Bonaventure, his assistants and students",
+        "default_language": "en",
+        "name": {
+            "en": "Introduction to computer systems",
+            "fr": "Introduction aux syst\u00e8mes informatiques"
+        },
+        "short_desc": {
+            "en": "Introductory course to computer systems. Exercices in C about I/O, syscalls, multithreading, locking, ...",
+            "fr": "Introduction aux syst\u00e8mes informatiques. Exercices en C sur les I/O, appels syst\u00e8me, multithreading, locking, ..."
+        },
+        "description": {
+            "en": "|Build Status|\n\nThis course contains the `INGInious <https://www.inginious.org>`__\ntasks for `UCLouvain <https://www.uclouvain.be>`__'s course LSINF1252,\ncomputing systems.\n\nEach `INGInious <https://www.inginious.org>`__ task is structured as\nfollows:\n\n-  a ``student`` directory that contains the C code for the exercise\n-  a ``run`` file that is executed by\n   `INGInious <https://www.inginious.org>`__ when a student provides an\n   answer\n-  a ``task.yaml`` file that provides the description of the exercise\n\nThe ``student`` directory contains several types of files:\n\n-  a ``CTester`` directory that contains the code of the `Ctester\n   library <https://github.com/UCL-INGI/CTester>`__ that is used to\n   execute the student code and intercept library calls\n-  a ``student_code.c.tpl`` file which is the template that the students\n   have to fill in\n-  one or more ``test.c`` files that contain the actual tests\n\nYou can find in `Report.md <https://github.com/UCL-INGI/LSINF1252/blob/master/Report.md>`__ a description on how to write\na bug report for an `INGInious <https://www.inginious.org>`__ task\n\n.. |Build Status| image:: https://travis-ci.org/UCL-INGI/LSINF1252.svg?branch=master\n   :target: https://travis-ci.org/UCL-INGI/LSINF1252\n",
+            "fr": "|Build Status|\n\nCe cours contient les exercices `INGInious <https://www.inginious.org>`__ \npour le cours LSINF1252 syst\u00e8mes informatiques de l'`UCLouvain <https://www.uclouvain.be>`__.\n\nChaque exercice `INGInious <https://www.inginious.org>`__ est structur\u00e9 \ncomme ceci:\n\n-  un dossier ``student`` contenant le code C pour les exercices\n-  un fichier ``run`` ex\u00e9cut\u00e9 par\n   `INGInious <https://www.inginious.org>`__ lorsque l'\u00e9tudiant fourni une r\u00e9ponse\n-  un fichier ``task.yaml`` fournissant la d\u00e9scription de l'exercise\n\nLe dossier ``student`` contient plusieurs types de fichiers:\n\n-  un dossier ``CTester`` contenant le code de la `Librairie\n   Ctester <https://github.com/UCL-INGI/CTester>`__ utilis\u00e9 pourthat is used to\n   ex\u00e9cuter le code des \u00e9tudiants et intercepter les appels librairie\n-  un fichier ``student_code.c.tpl`` correspondant au template que les \u00e9tudiants\n   doivent remplir\n-  un ou plusieurs fichiers ``test.c`` contenant les vrais exercices\n\nVous pouvez trouver une d\u00e9scription de comment \u00e9crire un rapport de bug pour un exercice\n`INGInious <https://www.inginious.org>`__ dans le fichier `Report.md <https://github.com/UCL-INGI/LSINF1252/blob/master/Report.md>`__\n\n.. |Build Status| image:: https://travis-ci.org/UCL-INGI/LSINF1252.svg?branch=master\n   :target: https://travis-ci.org/UCL-INGI/LSINF1252\n"
+        }
+    },
+    {
+        "id": "CS1-JAVA",
+        "link": "https://github.com/UCL-INGI/CS1-Java",
+        "languages": "French",
+        "license": "AGPL 3.0",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Full list on repo. Course given at UCLouvain by Pr. Olivier Bonaventure and Pr. Charles Pecheur",
+        "default_language": "en",
+        "name": {
+            "en": "Computer Science 1"
+        },
+        "short_desc": {
+            "en": "First course in CS for new university students. Based on Java."
+        },
+        "description": {
+            "en": "Ce r\u00e9pertoire contient un ensemble de t\u00e2che INGInious pouvant \u00eatre\ndonn\u00e9es \u00e0 des \u00e9tudiants pour un cours d'introductin \u00e0 Java. Les t\u00e2ches\nsont test\u00e9e via `JUnit 4 <http://junit.org/junit4/>`__ mais n'importe\nquel *framework* de test peut convenir (tant que certaines conventions\nsont respect\u00e9e, voir\n`wiki <https://github.com/UCL-INGI/CS1-Java/wiki>`__).\n\nLes t\u00e2ches viennent initialement des cours LSINF1101 et LFSAB1401 donn\u00e9\n\u00e0 l'Universit\u00e9 Catholique de Louvain. Le support de cours utilis\u00e9 est le\nlivre `Introduction to programming using Java - David J.\nEck <http://math.hws.edu/javanotes/index.html>`__.\n\nDocumentation et contribuer\n---------------------------\n\nPour savoir comment contribuer et comment les t\u00e2ches ont \u00e9t\u00e9 fa\u00eetes,\nvoir le `wiki <https://github.com/UCL-INGI/CS1-Java/wiki>`__.\n\nAuthors\n-------\n\n-  Alexandre Dubray\n-  Brandon Naitali\n-  Olivier Martin\n-  Tanguy De Bels\n-  Anthony G\u00e9go\n-  Olivier Goletti\n-  Fran\u00e7ois Michel\n-  Cl\u00e9mentine Munyabarenzi\n-  Ludovic Taffin\n-  Olivier Bonaventure\n\n"
+        }
+    },
+    {
+        "id": "demo-tasks",
+        "link": "https://github.com/UCL-INGI/INGInious-demo-tasks",
+        "languages": "English",
+        "license": "AGPL 3.0",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Anthony G\u00e9go",
+        "default_language": "en",
+        "name": {
+            "en": "Demo tasks"
+        },
+        "short_desc": {
+            "en": "A short tutorial on how to create tasks in INGInious"
+        },
+        "description": {
+            "en": "INGInious demonstration tasks\n=============================\n\nThis repository hosts demonstration tasks for the INGInious platform.\n\n"
+        }
+    },
+    {
+        "id": "cpp-demo-tasks",
+        "link": "https://github.com/mmoelle1/INGInious-cpp-demo-tasks",
+        "languages": "English",
+        "license": "AGPL 3.0",
+        "maintainers": "Matthias M\u00f6ller",
+        "authors": "Matthias M\u00f6ller",
+        "default_language": "en",
+        "name": {
+            "en": "INGInious C++ demonstration tasks"
+        },
+        "short_desc": {
+            "en": "A demo for C++ tasks, with error highlighting"
+        },
+        "description": {
+            "en": "INGInious C++ demonstration tasks\n=================================\n\nThis repository hosts C++ demonstration tasks for the INGInious\nplatform.\n\nPlease note that these require one of the container images ``cpp-gcc5``,\n``cpp-gcc6``, ``cpp-gcc7``, and ``cpp-gcc8`` from PR\nhttps://github.com/UCL-INGI/INGInious-containers/pull/31 to be installed\non the system. All C++11 and C++14 features are supported by GCC 5 and\nbetter. Most C++17 features require GCC 7 or better. Features from the\nC++2a working draft are partily implemented in GCC 8, others require GCC\n9 which is not yet available as container image.\n\nThe default setting in all demo tasks is GCC 8.\n"
+        }
+    }
+]
