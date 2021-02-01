@@ -68,3 +68,12 @@ Feel free to contact us or directly do a PR on this repository!
 | License | CC-BY-SA |
 | Maintainer | UCLouvain - INGI |
 | Authors | Xavier Gillard, Julien Bastin and Guillaume Derval |
+
+| Name | Blockly |
+| :---- | ------------------------------------- |
+| Link | https://github.com/UCL-INGI/Blockly_Section_Exercices |
+| Language | French |
+| Description | An base course on Blockly tasks |
+| License | AGPL 3.0 |
+| Maintainer | UCLouvain - INGI |
+| Authors | Ludovic Taffin |
