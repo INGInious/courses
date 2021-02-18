@@ -122,10 +122,12 @@
             "en": "Blockly"
         },
         "short_desc": {
-            "en": "Blockly exercises based on INGInious section"
+            "en": "Blockly exercises based on INGInious section",
+            "fr": "Exercices Blockly"
         },
         "description": {
-            "en": "Blockly exercises based on INGInious section"
+            "en": "Blockly exercises based on INGInious section",
+            "fr": "Exercices Blockly"
         }
     }
 ]
