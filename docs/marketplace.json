@@ -119,7 +119,8 @@
         "authors": "Ludovic Taffin",
         "default_language": "fr",
         "name": {
-            "en": "Blockly"
+            "en": "Blockly",
+            "fr": "Blockly"
         },
         "short_desc": {
             "en": "Blockly exercises based on INGInious section",
