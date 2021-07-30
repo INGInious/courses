@@ -130,5 +130,23 @@
             "en": "Blockly exercises based on INGInious section",
             "fr": "Exercices Blockly"
         }
+    },
+    {
+        "id": "INTERACTIVE_TASKS",
+        "link": "https://github.com/darkyne/ssh_student_examples",
+        "languages": "English",
+        "license": "AGPL 3.0",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Gregory Creupelandt",
+        "default_language": "en",
+        "name": {
+            "en": "Interactive Tasks",
+        },
+        "short_desc": {
+            "en": "Examples of basic interactive tasks using ssh_student",
+        },
+        "description": {
+            "en": "Examples of basic interactive tasks using ssh_student",
+        }
     }
 ]
