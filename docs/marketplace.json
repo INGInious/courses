@@ -130,5 +130,77 @@
             "en": "Blockly exercises based on INGInious section",
             "fr": "Exercices Blockly"
         }
+    },
+    {
+        "id": "primaire",
+        "link": "https://github.com/lin3out/cuisine-algorithmique",
+        "languages": "French",
+        "license": "GPL 3",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Charline Outters",
+        "default_language": "fr",
+        "name": {
+            "fr": "Algorithmes et recettes de cuisine"
+        },
+        "short_desc": {
+            "fr": "M\u00e9moire didactique de l'informatique - algorithme en cuisinant"
+        },
+        "description": {
+            "fr": "T\u00e2ches INGInious - Blockly d\u00e9velopp\u00e9es dans le cadre d'un cours \u00e9labor\u00e9 pour un m\u00e9moire sur la didactique de l'informatique. Le cours est disponible ici : https://inginious.org/course/primaire"
+        }
+    },
+    {
+        "id": "reseaux-neurones",
+        "link": "https://github.com/loan181/INGInious_memoire",
+        "languages": "French",
+        "license": "GPL 3",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Loan Sens",
+        "default_language": "fr",
+        "name": {
+            "fr": "[Introduction IA] Les r\u00e9seaux de neurones"
+        },
+        "short_desc": {
+            "fr": "Pr\u00e9sentation du concept d'intelligence artificielle des \"r\u00e9seaux neuronaux\"."
+        },
+        "description": {
+            "fr": "Pr\u00e9sentation du concept d'intelligence artificielle des \"r\u00e9seaux neuronaux\". Nous verrons \u00e0 travers des activit\u00e9s Blockly ce dont il s'agit et comment l'utiliser pour reconnaitre des formes particuli\u00e8res tel que des lignes ou des chiffres. Le cours est disponible ici : https://inginious.org/course/reseaux-neurones"
+        }
+    },
+    {
+        "id": "blockly-openweek",
+        "link": "https://github.com/OpenWeek/openweek-blockly",
+        "languages": "French",
+        "license": "GPL 3",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Ilias Boutchichi, Guillaume Bellon, Sophie Schorochoff, Naitali Brandon, Colin Evrard, Fran\u00e7ois Duch\u00eane, Damien Raquet, Olivier Martin, Robin Descamps, Fran\u00e7ois Michel",
+        "default_language": "fr",
+        "name": {
+            "fr": "[Blockly] Exercices OpenWeek"
+        },
+        "short_desc": {
+            "fr": "Exemples tâches Blockly"
+        },
+        "description": {
+            "fr": "Ces exemples de tâches ont été créées par un groupe d'étudiant durant l'open week. Elles sont disponibles ici : https://inginious.org/course/blockly-openweek"
+        }
+    },{
+        "id": "Memoire_Debognie_blockly",
+        "link": "https://github.com/cydeb33/memoire-blockly",
+        "languages": "French",
+        "license": "GPL 3",
+        "maintainers": "UCLouvain - INGI",
+        "authors": "Cyrille Debongnie",
+        "default_language": "fr",
+        "name": {
+            "fr": "Les bio-informaticiens m\u00e8nent l'enqu\u00eate ! Blockly - PRIMM"
+        },
+        "short_desc": {
+            "fr": "Introduction \u00c3\u00a0 des concepts en programmation avec Blockly et la m\u00c3\u00a9thodologie PRIMM",
+            "en": "Introduction to programming concepts through blockly and the PRIMM methodology"
+        },
+        "description": {
+            "fr": "Ce cours introduit une s\u00e9rie de concepts informatiques au travers d'une petite enqu\u00eate scientifique. Les outils utilis\u00e9s sont : Blockly et la m\u00e9thodologie PRIMM. Le cours est disponible ici : https://inginious.org/course/Memoire_Debognie_blockly"
+        }
     }
 ]
