@@ -77,6 +77,7 @@ Feel free to contact us or directly do a PR on this repository!
 | License | AGPL 3.0 |
 | Maintainer | UCLouvain - INGI |
 | Authors | Ludovic Taffin |
+
 | Name | Algorithmes et recettes de cuisine |
 | :---- | ------------------------------------- |
 | Link | https://github.com/lin3out/cuisine-algorithmique |
